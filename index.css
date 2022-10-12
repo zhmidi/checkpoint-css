@@ -1,0 +1,46 @@
+.ok{
+    display: flex;
+    justify-content: space-around;
+    background-color: ghostwhite;
+}
+
+.travel{
+    
+    margin-top: 80px;
+    width: 400px;
+    height: 540px;
+    border: 1px solid white;  
+
+}
+img{
+    width: 400px;
+    height: 300px;
+}
+
+
+img{
+    width: 400px;
+    height: 300px;
+}
+
+img{
+    width: 400px;
+    height: 300px;
+}
+
+h1{
+    text-align: center;
+    color: gray;   
+}
+
+.kl{
+    text-align: end;
+}
+
+.bt{
+    width:100px;
+    display: block;
+    margin: auto;
+    background-color: aliceblue;
+    color: black;
+}
